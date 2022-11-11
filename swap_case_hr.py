@@ -2,25 +2,22 @@
 Swap Case in Python HackerRank
 """
 
-'''method 1'''
 
+'''method 1'''
 # s=input()
 # a=s.swapcase()
 # print(a)
 
 
 '''method 2'''
-
 # print(input().swapcase())
 
 
 '''method 3'''
-
 # print('Chandu'.swapcase())
 
 
 '''method 4'''
-
 # def swap_case(s):
 #     return s.swapcase()
 # s=input()
@@ -29,7 +26,6 @@ Swap Case in Python HackerRank
 
 
 '''method 5'''
-
 # def swap_case(s):
 #     return s.swapcase()
 # if __name__ == '__main__':
